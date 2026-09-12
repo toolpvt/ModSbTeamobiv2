@@ -1,21 +1,11 @@
 {
-  "Version": "4.0",
-  "Notification": "Sửa xmap 1 số map",
+  "Version": "1.0",
+  "Notification": "ReUpdate",
   "Update": [
     {
       "Name": "Assembly-CSharp.dll",
       "Link": "https://raw.githubusercontent.com/toolpvt/ModSbHsnr/main/Assembly-CSharp.dll",
-      "Path": "ClientPVT_Data\\Managed\\"
-    },
-    {
-      "Name": "mono.dll",
-      "Link": "https://raw.githubusercontent.com/toolpvt/ModSbHsnr/main/mono.dll",
-      "Path": "ClientPVT_Data\\Mono\\"
-    },
-    {
-      "Name": "QLTK.exe",
-      "Link": "https://raw.githubusercontent.com/toolpvt/ModSbHsnr/main/QLTK.exe",
-      "Path": "\\"
+      "Path": "TOOLPVT_Data\\Managed\\"
     }
   ]
 }
