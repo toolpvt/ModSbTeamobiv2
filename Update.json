@@ -1,6 +1,6 @@
 {
   "Version": "1.0",
-  "Notification": "ReUpdate",
+  "Notification": "Fix Hồi sinh",
   "Update": [
     {
       "Name": "Assembly-CSharp.dll",
